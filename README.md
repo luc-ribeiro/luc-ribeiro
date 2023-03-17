@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Lucas Ribeiro </h1> 
+<h1> Lucas Ribeiro </h1> 
   
 :computer: Systems analysis and development student at FATEC Rio Preto.
 
