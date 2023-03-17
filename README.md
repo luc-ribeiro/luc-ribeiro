@@ -6,7 +6,7 @@
 
 :house_with_garden: Living in São José do Rio Preto, Brazil.
 
-<h2> Learning and developing skills in: </h2> 
+<h2> Skills: </h2> 
 <div style="display: inline_block">
   <img align="center" alt="Luc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
