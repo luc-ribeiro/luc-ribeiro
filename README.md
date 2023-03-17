@@ -6,8 +6,6 @@
 
 :house_with_garden: Living in São José do Rio Preto, Brazil.
 
-:rocket: Interested in increasing my React and NodeJS skills.
-
 <h2> Learning and developing skills in: </h2> 
 <div style="display: inline_block">
   <img align="center" alt="Luc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
