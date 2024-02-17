@@ -1,6 +1,6 @@
 <h1> Lucas Ribeiro </h1> 
   
-:computer: Systems analysis and development student at FATEC Rio Preto.
+:computer: System analyst and developer
 
 :eyeglasses: Technician in systems development by ETEC Rio Preto.
 
