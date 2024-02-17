@@ -1,6 +1,6 @@
 <h1> Lucas Ribeiro </h1> 
   
-:computer: System analyst and developer
+:computer: System developer analyst
 
 :eyeglasses: Technician in systems development by ETEC Rio Preto.
 
