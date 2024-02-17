@@ -1,8 +1,8 @@
 <h1> Lucas Ribeiro </h1> 
   
-:computer: System developer analyst
+:computer: System developer analyst.
 
-:eyeglasses: Technician in systems development by ETEC Rio Preto.
+:eyeglasses: Technician in systems development.
 
 :house_with_garden: Living in São José do Rio Preto, Brazil.
 
