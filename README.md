@@ -1,5 +1,4 @@
-![Banner](https://github.com/luc-ribeiro/luc-ribeiro/blob/main/images/banner-profile.png?raw=true)
-
+![banner](https://github.com/user-attachments/assets/cfc3059f-8241-4dcb-82af-9511ee4f6cc9)
 
 <h2> Techs: </h2> 
 <div style="display: inline_block">
